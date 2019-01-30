@@ -4,7 +4,6 @@
   "description": "Sprint 0",
   "main": "index.js",
   "scripts": {
-    "start": "index.html",
     "test": "jest"
   },
   "repository": {
@@ -17,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/upcs/sprint-0-sq19-hoangj21/issues"
   },
-  "homepage": "https://github.com/upcs/sprint-0-sq19-hoangj21#readme"
+  "homepage": "https://github.com/upcs/sprint-0-sq19-hoangj21#readme",
+  "devDependencies": {
+    "jest": "^24.0.0"
+  }
+  
 }
